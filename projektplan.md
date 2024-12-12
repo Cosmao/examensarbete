@@ -1,4 +1,4 @@
-# Projectplan
+# Projektplan
 ### Mål
 Målet med projektet är att bygga en lösning som ser om man har post i brevlådan eller inte och skickar en notifikation när post har kommit.
 ### Inblandade personer
