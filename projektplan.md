@@ -19,10 +19,10 @@ En automatiserad lösning så man slipper gå och kolla i brevlådan.
         - MQTT
         - Databas
         - Push notification
-    - Börja skriva raport
+    - Börja skriva rapport
  - Vecka 4 (29dec - 5jan)
-    - Skriva raport
+    - Skriva rapport
  - Vecka 5 (6jan - 10jan)
-    - Raport klar
+    - rapport klar
     - Planera redovisning
 
