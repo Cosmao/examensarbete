@@ -1,7 +1,7 @@
-# examensarbete
+# Examensarbete
 Examensarbete skrivet av Emil Kool för IoT23 på nackademin. \
 Projeket var att bygga en IoT enhet som rapporterar om det finns brev i en brevlåda.
-### Links
+## Links
 [Problemformulering](problemformulering.md) \
 [Projektplan](projektplan.md) \
 [Projektrapport](Projektrapport-brevlåda.pdf) \
